@@ -1,0 +1,39 @@
+{
+    "Libros": [
+        {
+            "Titulo": "El lenguaje de programaci\u00f3n Python",
+            "Autores": "Challenger-P\u00e9rez, I., D\u00edaz-Ricardo, Y., & Becerra-Garc\u00eda",
+            "Tema": "Programaci\u00f3n",
+            "Editorial": "Ciencias Holgu\u00edn",
+            "A\u00f1o": 2014
+        },
+        {
+            "Titulo": "Python para todos",
+            "Autores": "Gonz\u00e1lez Duque",
+            "Tema": "Programaci\u00f3n",
+            "Editorial": "NA",
+            "A\u00f1o": 2011
+        },
+        {
+            "Titulo": "Los elementos del periodismo",
+            "Autores": "Kovach, B., & Rosenstiel, T",
+            "Tema": "Periodimos",
+            "Editorial": "Aguilar",
+            "A\u00f1o": 2012
+        },
+        {
+            "Titulo": "Los due\u00f1os del periodismo ",
+            "Autores": "Reig, R. ",
+            "Tema": "Periodismo",
+            "Editorial": "Editorial Gedisa",
+            "A\u00f1o": 2011
+        },
+        {
+            "Titulo": "Actividades f\u00edsicas y deportes adaptados para personas con discapacidad",
+            "Autores": "Rivas, D. S",
+            "Tema": "Deportes",
+            "Editorial": "Paidotribo",
+            "A\u00f1o": 2013
+        }
+    ]
+}
